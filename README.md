@@ -13,7 +13,8 @@
 
 ## دروس کارشناسی
 
-[1322108_013 تعامل انسان کامپیوتر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
+درس طراحی واسط کاربر
+https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin
 
 -----------------
 ## روز و ساعت ارائه دروس
