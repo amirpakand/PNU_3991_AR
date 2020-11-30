@@ -3,7 +3,7 @@
 ### امیرحسین پاکند
 
 ---
-- [حساب گیت هاب] https://github.com/amirpakand
+- [حساب گیت هاب](https://github.com/amirpakand)
 - [آدرس رزومه]https://github.com/amirpakand/amirhosein.pakand
 - [sop]
 
