@@ -4,7 +4,7 @@
 
 ---
 - [حساب گیت هاب](https://github.com/amirpakand)
-- [آدرس رزومه]https://github.com/amirpakand/amirhosein.pakand
+- [آدرس رزومه](https://github.com/amirpakand/amirhosein.pakand)
 - [sop]
 
 
