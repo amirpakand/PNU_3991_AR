@@ -14,7 +14,7 @@
 ## دروس کارشناسی
 
 درس طراحی واسط کاربر
-(https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin)
+"https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin"
 
 -----------------
 ## روز و ساعت ارائه دروس
