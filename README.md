@@ -5,7 +5,8 @@
 ---
 - [حساب گیت هاب](https://github.com/amirpakand)
 - [آدرس رزومه](https://github.com/amirpakand/amirhosein.pakand)
-- [sop](https://github.com/amirpakand/sop)
+- [sop]
+
 
 -------------------
 ## Winter Semester Courses 1399/2020
